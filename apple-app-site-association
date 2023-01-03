@@ -3,21 +3,15 @@
     "apps": [],
     "details": [
       {
-        "appID": "A7YWCZ9RQG.com.tjf.miyouapp",
+        "appID": "A7YWCZ9RQG.com.yh.youhao",
         "paths": [
-          "/miyou/*"
-        ]
-      },
-      {
-        "appID": "697GLTC7Z6.com.store.hwapp.miyouApp",
-        "paths": [
-          "/miyou/*"
+          "/youhao/*"
         ]
       },
       {
         "appID": "697GLTC7Z6.com.xjbg.test.project",
         "paths": [
-          "/tykjvaluation/*"
+          "/youhao/*"
         ]
       }
     ]
